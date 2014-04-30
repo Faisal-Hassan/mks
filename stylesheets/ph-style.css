@@ -1,0 +1,75 @@
+h1 {
+	color: #303030;
+	padding: 15px 25px 15px 15px;
+	background-color: #C8C8C8;
+}
+
+p {
+	padding: 15px 25px 15px 15px;
+	background-color: yellow;
+	margin:0px 0px 0px 0px
+}
+
+.first {
+	background-color: #026EFA;
+}
+
+.second {
+	background-color: #2582FA;
+}
+
+.third {
+	background-color: #4393FA;
+}
+
+.fourth {
+	background-color: #5A9FFA;
+}
+
+.fifth {
+	background-color: #70ACFA;
+}
+
+.sixth {
+	background-color: #89BAFA;
+}
+
+.seventh {
+	background-color: #A7CBFA;
+}
+
+.eighth {
+	background-color: #04B04E;
+}
+
+.ninth {
+	background-color: #FAB6E9;
+}
+
+.tenth {
+	background-color: #FA93E0;
+}
+
+.eleventh {
+	background-color: #FA7FDB;
+}
+
+.twelfth {
+	background-color: #FA66D5;
+}
+
+.thirteenth {
+	background-color: #FA46CD;
+}
+
+.fourteenth {
+	background-color: #F728C3;
+}
+
+.fifteenth {
+	background-color: #FA0ABE;
+}
+.label {
+	font-weight: bold;
+	font-size: 20px;
+}
